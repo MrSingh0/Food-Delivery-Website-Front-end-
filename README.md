@@ -1,5 +1,5 @@
 # Food-Delivery-APP
-Formed with the halp of basic HTML and CSS.
+With the help of basic HTML and CSS.
 
 index.html main html code file contains complete html code.
 style.css contain complete css code.
